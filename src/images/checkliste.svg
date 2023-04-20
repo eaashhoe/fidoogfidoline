@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lag_1" data-name="Lag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 703.34 545.25">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 26.95px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #195136;
+      }
+
+      .cls-4 {
+        fill: #fffcf7;
+      }
+
+      .cls-5 {
+        fill: #0f1110;
+      }
+
+      .cls-6, .cls-7 {
+        font-family: SinhalaMN-Bold, 'Sinhala MN';
+        font-weight: 700;
+      }
+
+      .cls-8 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        stroke: #e8afc4;
+        stroke-width: 5px;
+      }
+
+      .cls-9, .cls-10 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-family: SinhalaMN, 'Sinhala MN';
+        font-size: 16px;
+      }
+
+      .cls-3, .cls-11 {
+        isolation: isolate;
+      }
+
+      .cls-12 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-13 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-10 {
+        stroke: #195136;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" y="53.69" width="385.71" height="491.56" rx="29.71" ry="29.71"/>
+  <rect class="cls-4" x="29.07" y="97.26" width="328.42" height="410.65" rx="15.67" ry="15.67"/>
+  <rect class="cls-5" x="106.49" y="34.24" width="172.73" height="71.43" rx="20.68" ry="20.68"/>
+  <ellipse class="cls-5" cx="192.86" cy="40.63" rx="48.97" ry="40.63"/>
+  <circle class="cls-4" cx="193.17" cy="35.63" r="18.03"/>
+  <text class="cls-1" transform="translate(106.49 145.52) scale(.65 1)"><tspan class="cls-6" x="0" y="0">Din gr</tspan><tspan class="cls-13" x="79.68" y="0">ø</tspan><tspan class="cls-7" x="94.47" y="0">nne Checkliste</tspan></text>
+  <rect class="cls-10" x="50.26" y="165.47" width="24.19" height="24.19"/>
+  <rect class="cls-10" x="50.26" y="200.81" width="24.19" height="24.19"/>
+  <rect class="cls-10" x="50.26" y="236.15" width="24.19" height="24.19"/>
+  <rect class="cls-10" x="50.26" y="271.49" width="24.19" height="24.19"/>
+  <rect class="cls-10" x="50.26" y="306.82" width="24.19" height="24.19"/>
+  <rect class="cls-10" x="50.26" y="342.16" width="24.19" height="24.19"/>
+  <rect class="cls-10" x="50.26" y="377.5" width="24.19" height="24.19"/>
+  <rect class="cls-10" x="50.26" y="412.84" width="24.19" height="24.19"/>
+  <rect class="cls-10" x="50.26" y="448.18" width="24.19" height="24.19"/>
+  <g id="Komprimer_filer_" data-name="Komprimer filer " class="cls-11">
+    <text class="cls-3" transform="translate(86.1 219.4)"><tspan class="cls-8" x="0" y="0">K</tspan><tspan x="10.72" y="0">omprimer filer</tspan></text>
+  </g>
+  <g id="Ansvarlig_printning" data-name="Ansvarlig printning" class="cls-11">
+    <text class="cls-3" transform="translate(87.51 254.55)"><tspan x="0" y="0">Ansvarlig printning</tspan></text>
+  </g>
+  <g id="Greenhosting" class="cls-11">
+    <text class="cls-3" transform="translate(87.51 183.89)"><tspan x="0" y="0">G</tspan><tspan class="cls-14" x="12.66" y="0">r</tspan><tspan x="19.35" y="0">eenhosting</tspan></text>
+  </g>
+  <g id="Forretningsmodel" class="cls-11">
+    <text class="cls-3" transform="translate(87.51 288.71)"><tspan class="cls-12" x="0" y="0">F</tspan><tspan x="7.29" y="0">or</tspan><tspan class="cls-14" x="24.36" y="0">r</tspan><tspan x="31.05" y="0">etningsmodel</tspan></text>
+  </g>
+  <line class="cls-10" x1="88.8" y1="318.92" x2="307" y2="318.92"/>
+  <line class="cls-10" x1="88.8" y1="354.26" x2="307" y2="354.26"/>
+  <line class="cls-10" x1="88.8" y1="389.6" x2="307" y2="389.6"/>
+  <line class="cls-10" x1="88.8" y1="424.93" x2="307" y2="424.93"/>
+  <line class="cls-10" x1="91.91" y1="460.27" x2="310.11" y2="460.27"/>
+  <line class="cls-9" x1="60.81" y1="175.6" x2="69.29" y2="186.19"/>
+  <path class="cls-9" d="m88.09,168.94c-2.12,1.44-10.44,7.74-15.95,11.99l-5.99,5.02"/>
+  <line class="cls-9" x1="60.81" y1="210.93" x2="69.29" y2="221.53"/>
+  <path class="cls-9" d="m88.09,204.28c-2.12,1.44-10.44,7.74-15.95,11.99l-5.99,5.02"/>
+  <line class="cls-9" x1="63.48" y1="244.58" x2="71.96" y2="255.18"/>
+  <path class="cls-9" d="m90.76,237.92c-2.12,1.44-10.44,7.74-15.95,11.99l-5.99,5.02"/>
+</svg>
